@@ -1,2 +1,2 @@
 # ToDoList
- Simple to do list using PERN
+ Simple to do list tutorial from Youtube using PERN
